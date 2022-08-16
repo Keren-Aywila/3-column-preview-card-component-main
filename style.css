@@ -89,13 +89,13 @@ main{
 	display: block;
 	height:  ;
 	max-width: 360px;
-	margin-top: 3rem;
-	margin-bottom: 2rem;
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
 }
 .container{
 	display: block;
 	width: 300px;
-	margin-left: 32px;
+	margin-left: 30px;
 }
 .box1{
 	border-radius: 8px 8px 0 0;
