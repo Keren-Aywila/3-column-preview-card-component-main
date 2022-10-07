@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/evereverk/3-column-preview-card-component-main.git]
+- Solution URL: [https://github.com/Keren-Aywila/3-column-preview-card-component-main.git]
 - Live Site URL: [https://evereverk.github.io/3-column-preview-card-component-main/]
 
 ### Built with
