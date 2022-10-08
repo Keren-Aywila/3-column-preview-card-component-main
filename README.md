@@ -36,4 +36,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@evereverk](https://www.frontendmentor.io/profile/evereverk)
-- Instagram - [everever.k](https://www.instagram.com/everever.k)
+- Instagram - [everever.k](https://www.instagram.com/kerenaywila)
