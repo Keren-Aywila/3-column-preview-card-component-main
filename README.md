@@ -32,8 +32,3 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
-
-## Author
-
-- Frontend Mentor - [@evereverk](https://www.frontendmentor.io/profile/evereverk)
-- Instagram - [everever.k](https://www.instagram.com/kerenaywila)
